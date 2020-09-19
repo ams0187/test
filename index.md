@@ -23,8 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Vupiter Main Page](https://ams0187.github.io/Vupiter/).
+
 ```
+
+[Vupiter Main Page](https://ams0187.github.io/Vupiter/).
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
