@@ -1,3 +1,3 @@
 #### Test for new pages
 
-[test](https://ams0187.github.io/Vupiter/design)
+[test](https://ams0187.github.io/test/test)
