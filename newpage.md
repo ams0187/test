@@ -1,3 +1,3 @@
 #### Test for new pages
 
-[test](https://ams0187.github.io/test/9_20_2020.txt)
+[test](https://ams0187.github.io/test/9_25_2020.txt)
